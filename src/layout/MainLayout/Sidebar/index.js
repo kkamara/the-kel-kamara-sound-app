@@ -64,7 +64,7 @@ const MainLayout = (props) => {
                 >
                     <Grid item style={{ color: "#fff" }}>
                         {/* <img src={logo} alt="Logo" /> */}
-                        The Kelvin Kamara Sound App
+                        The Kel Kamara Sound App
                     </Grid>
                 </Grid>
             </Hidden>

@@ -5,7 +5,7 @@ const Menu = electron.Menu;
 const path = require('path');
 
 const inProduction = app.isPackaged;
-const appName = 'The Kelvin Kamara Sound App';
+const appName = 'The Kel Kamara Sound App';
 
 let mainWindow;
 let maximizeMenuItem;

@@ -1,13 +1,13 @@
 {
-  "name": "the-kelvin-kamara-sound-app",
-  "version": "4.64.0",
+  "name": "the-kel-kamara-sound-app",
+  "version": "4.65.0",
   "author": "https://www.github.com/kkamara",
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
   "build": {
-    "appId": "com.kelvinkamara.soundapp",
-    "productName": "The Kelvin Kamara Sound App"
+    "appId": "com.kelkamara.soundapp",
+    "productName": "The Kel Kamara Sound App"
   },
   "scripts": {
     "react-start": "react-scripts start",

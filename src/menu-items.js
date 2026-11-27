@@ -82,7 +82,7 @@ export default {
     items: [
         {
             id: 'navigation',
-            title: 'The Kelvin Kamara Sound App',
+            title: 'The Kel Kamara Sound App',
             caption: 'Soundscape',
             type: 'group',
             icon: icons['NavigationOutlinedIcon'],
