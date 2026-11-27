@@ -1,10 +1,10 @@
 <img src="https://codedthemes.com/wp-content/uploads/edd/2022/05/Materially-ReactJS-Admin-Dashboard.webp" alt="Materially-ReactJS-Admin-Dashboard.webp" width=""/>
 
-<img src="https://github.com/kkamara/useful/blob/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width=""/>
+<img src="https://github.com/kkamara/useful/blob/main/the-kel-kamara-sound-app.png?raw=true" alt="the-kel-kamara-sound-app.png" width=""/>
 
-# The Kelvin Kamara Sound App
+# The Kel Kamara Sound App
 
-(05-Apr-2023) The Kelvin Kamara sound app is a background noise app. Made with React 16 and ElectronJS.
+(05-Apr-2023) The Kel Kamara Sound App is a background noise app. Made with React 16 and ElectronJS.
 
 ## Contents
 
@@ -24,7 +24,7 @@
 
 ## Download Latest
 
-* [Latest Windows app](https://github.com/kkamara/kelvinkamara/releases).
+* [Latest Windows app](https://github.com/kkamara/kelkamara/releases).
 
 ## Requirements
 

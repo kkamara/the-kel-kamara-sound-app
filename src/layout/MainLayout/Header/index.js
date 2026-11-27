@@ -47,7 +47,7 @@ const Header = (props) => {
                         <Grid item>
                             <Box mt={0.5}>
                                 {/* <img src={logo} alt="Logo" /> */}
-                                The Kelvin Kamara Sound App
+                                The Kel Kamara Sound App
                             </Box>
                         </Grid>
                     </Hidden>
